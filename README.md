@@ -1,5 +1,6 @@
 I'm thrilled to share my project on Pizza Sales Dashboard on Power BI and SQL that shows the detailed of Data Analyst Portfolio from End to End as Beginner to Expert level.
 This is a dynamic dashboard that provide insights on top and bottom performing pizzas by revenue, quantity and total order.
+
 𝑲𝑷𝑰𝒔:
 Total Revenue
 Avg Order value
